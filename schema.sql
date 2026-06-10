@@ -1,0 +1,1 @@
+create table metadata(id serial primary key);
